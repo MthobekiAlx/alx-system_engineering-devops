@@ -1,2 +1,2 @@
 #!/binn/bash
-head -3 iacta | tail -1 
+cat head -3 iacta | tail -1 
